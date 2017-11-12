@@ -8,7 +8,7 @@ Crawl Coffee Addresses &amp; Infos with Python
 ![Jayson Demo](https://raw.githubusercontent.com/tomy0000000/Cafe-Address-Crawler/master/Media/Jayson%20Demo.png)
 	* [`JSON Editor Online`](http://www.jsoneditoronline.org/)
 ![Online Editor Demo](https://raw.githubusercontent.com/tomy0000000/Cafe-Address-Crawler/master/Media/Online%20Editor%20Demo.png)
-	* ...
+	* and So on...
 
 # Intro
 >他說 同學身為高三生  
@@ -16,8 +16,8 @@ Crawl Coffee Addresses &amp; Infos with Python
 >每天被那刁鑽科目搞得腰酸  
 >又背痛快要爆肝還沒懂  
 >呼吸困難像得高山症
->
->\-《Bon Bon Bon Bon》 By 宇宙人
+
+\-《Bon Bon Bon Bon》 By 宇宙人
 
 待在家太廢  
 圖書館太好睡  
